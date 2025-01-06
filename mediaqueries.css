@@ -1,0 +1,831 @@
+@media screen and (max-width: 1700px) {
+    .bginteractive {
+        height: 480px;
+        width: 600px;
+        margin-left: 650px;
+
+    }
+
+    #profile {
+        height: 60vh;
+        margin-bottom: 340px;
+        margin-top: -10px;
+
+    }
+
+    .video-background{
+        width: 740px;
+        margin-bottom: -20px;
+        margin-top: 257px;
+        height: 370px;
+        
+    }
+    
+    .name-container{
+        margin-top: -90px;
+    }
+
+    .about-container {
+        flex-wrap: wrap;
+    }
+
+    .ApoorvaPorfile {
+        height: 400px;
+        width: 400px;
+    }
+
+    .hamburger-icon {
+        display: none;
+    }
+    .btn-container{
+        margin-top: -320px;
+    }
+
+    .logo {
+        padding-top: 10px;
+        padding-right: 40px;
+    }
+
+    .about-pic {
+        height: 300px;
+        width: 600px;
+        padding-top: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .background-color {
+        height: 400px;
+        width: 500px;
+        margin-top: 40px;
+    }
+
+    .card {
+
+        width: 1800px;
+        height: 280px;
+        margin-top: 30px;
+
+    }
+
+    .nav-links li {
+        display: inline-block;
+        margin-top: 40px;
+
+
+    }
+
+    .nav-links {
+        margin-left: 380px;
+    }
+
+    #hamburger-nav {
+        display: none;
+    }
+
+    .section__text__p1 {
+        font-size: 40px;
+    }
+
+    .section__text {
+        padding-top: 100px;
+    }
+
+    .scrolldown {
+        margin-left: 548px;
+
+
+    }
+
+    .scrolldownprofile {
+        margin-top: 180px;
+    }
+
+    .scrolldownabout {
+        margin-top: none;
+    }
+
+    .card-exp {
+        display: none;
+    }
+
+    .projectheading {
+        padding-left: 480px;
+    }
+
+    .nav-link-container {
+        border-color: white;
+
+    }
+
+    #desktop-nav {
+        margin-left: -290px;
+    }
+    .profile_scroll{
+        margin-top: 297px;
+            margin-left: 600px;
+    }
+
+    /* ABOUT SECTION */
+    #about{
+        margin-top: -190px;
+        margin-bottom: 47px;
+    }
+    .section__text__p11 {
+        margin-left: 453px;
+    }
+
+    .projectheading1 {
+        color: #244855;
+        font-weight: 400;
+        margin-left: 482px;
+        margin-top: -57px;
+    }
+
+    .projectheading {
+        color: white;
+        font-weight: 400;
+
+
+    }
+    .text-container{
+        margin-top: 10px;
+    }
+    .scroll_about{
+        margin-left: 600px;
+    }
+   .article-container {
+       display: flex;
+       text-align: initial;
+       flex-wrap: wrap;
+       flex-direction: row;
+       gap: 1.7rem;
+       justify-content: space-around;
+       border-color: transparent;
+
+
+
+   }
+
+   .article-container h3 {
+       font-size: 1.rem;
+
+   }
+
+    article {
+       display: flex;
+       width: 7rem;
+       justify-content: space-around;
+
+       margin-top: 100px;
+
+    }
+    .wave{
+        height: 870px;
+
+    }
+    .scrollexp{
+        margin-left: 579px;
+    }
+    .Btnf{
+        margin-left: 730px;
+    }
+
+}
+
+
+@media screen and (max-width: 1500px) {
+    .bginteractive{
+        height: 480px;
+        width: 600px;
+        margin-left: 650px;
+        
+    }
+    #profile {
+        height: 83vh;
+        margin-bottom: 340px;
+        margin-top: -10px;
+
+    }
+    .about-container {
+        flex-wrap: wrap;
+    }
+    .ApoorvaPorfile{
+        height: 400px;
+        width: 400px;
+    }
+    .hamburger-icon {
+        display: none;
+    }
+    .logo {
+        padding-top: 10px;
+        padding-right: 40px;
+    }
+    .about-pic {
+        height: 300px;
+        width: 600px;
+        padding-top: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .background-color{
+        height: 400px;
+        width: 500px;
+        margin-top: 40px;
+    }
+    .card{
+        
+        width: 1800px;
+        height: 280px;
+        margin-top: 30px;
+        
+    } 
+    .nav-links li{
+        display: inline-block;
+        margin-top: 40px;
+        
+        
+    }
+    .nav-links{
+        margin-left: 380px;
+    }
+   
+    #hamburger-nav {
+        display: none;
+    }
+    .section__text__p1{
+        font-size: 40px;
+    }
+    .section__text{
+        padding-top: 100px;
+    }
+    .scrolldown{
+        margin-left: 548px;
+        
+        
+    }
+    .scrolldownprofile{
+        margin-top: 180px;
+    }
+    .scrolldownabout{
+        margin-top: none;
+    }
+    .card-exp{
+        display: none;
+    }
+   .projectheading {
+    padding-left: 480px;
+   }
+   .nav-link-container {
+    border-color: white;
+    
+   }
+   #desktop-nav{
+    margin-left: -290px;
+   }
+   /* ABOUT SECTION */
+   
+   .section__text__p11{
+    margin-left: 413px;
+   }
+   .projectheading1{
+    color: #244855;
+    font-weight: 400;
+    margin-left: 482px;
+    margin-top: -57px;
+   }
+   .projectheading{
+    color:white;
+    font-weight: 400;
+    
+    
+   }
+    
+}
+
+@media screen and (max-width: 1200px){
+    #desktop-nav{
+        display: flex ;
+    }
+    #hamburger-nav {
+        display: flex;
+    }
+    #experience, .experience-details-container {
+        margin-top: 2rem;
+    }
+    #profile, .section-container {
+        display: block;
+    }
+    .arrow {
+        display: none;
+    }
+    section, .section-container {
+        height: fit-content;
+    }
+    section {
+        margin: 0 5%;
+    }
+    .section__pic-container{
+        width: 400px;
+        height: 400px;
+        margin: 0 auto 2rem;
+        justify-content: center;
+    }
+    .about-container {
+        margin-top: 0;
+    }
+    .ApoorvaPorfile{
+        height: 380px;
+        width: 380px;
+    }
+    .section__text{
+        padding-top: 100px;
+    }
+    
+    
+    
+
+   
+}
+    
+@media screen and (max-width: 700px){
+    /* PROFILE */
+    .name-container{
+        width: 400px;
+    }
+    .first-name{
+        width: 350px;
+        font-size: 70px;
+        margin-left: 50px;
+    }
+    .first-name1{
+        width: 350px;
+        font-size: 70px;
+        margin-top: -80px;
+        margin-left: 56px;
+    }
+    .last-name{
+        width: 350px;
+        font-size: 20px;
+        font-size: 70px;
+        margin-left: 51px;
+    }
+    .last-name1{
+        width: 350px;
+        font-size: 70px;
+        margin-top: -80px;
+        margin-left: 56px;
+    }
+
+    .video-background{
+        width: 200px;
+        height: 150px;
+        margin-left:90px;
+        margin-top: 220px;
+    }
+    .button{
+        height: 80px;
+    }
+
+
+.typing-js-container{
+    background-color: #d8c3a5; 
+    font-family:'Franklin Gothic Bold', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 17px; 
+    opacity: 90%;
+    color: #244855; 
+    margin-left: 5px;
+    padding-top: 10px;
+    margin-top: 10px;
+  }
+    .bginteractive{
+        height: 280px;
+        width: 250px;
+        margin-left: 150px;
+        margin-top: -220px;
+    }
+    #hamburger-nav {
+        padding-right: 1.5px;
+        padding-left: 1.5px;
+        align-items:right;
+        width: auto;
+        display: flex;
+    }
+    .hamburger-icon {
+        display: flex;
+        color: #244855;
+
+    }
+    #desktop-nav{
+        display: none;
+    }
+.btn-container{
+    margin-left: -800px;
+    margin-top: 50px;
+    background-color: #244855;
+}
+#socials-container{
+    margin-left: -770px;
+    margin-right: 900px;
+    margin-bottom: 70px;
+    margin-top: -295px;
+}
+.container{
+    margin-left: -450px;
+    margin-top: 345px;
+    height: 150px;
+   margin-bottom: -190px;
+
+}
+.cont-2{
+    margin-top: -40px;
+}
+.section__text {
+        padding-top: 30px;
+}
+#profile{
+        margin-bottom:5px;
+        margin-top: 50px;
+}
+.main__scroll-box{
+    margin-left: -366px;
+    width: 4dvi;
+}
+/* ABOUT */
+.section__text__p1{
+        font-size: 30px;
+}
+.section__text__p11{
+        margin-top: -43px; margin-left: 57px;
+        color: #244855;
+        font-size: 30px;
+}
+.about-details-container{
+    margin-top: -20px;
+}
+.about-container{
+    margin-top: -45px;
+}
+.education{
+    margin-top: -30px;
+}
+/* EXPERIENCE */
+
+#experience{
+    margin-top: 190px;
+    margin-bottom: 120px;
+}
+/* project */
+.projectheading{
+    font-size: 30px;
+    color:white;
+    font-weight: 400;
+    margin-bottom: -100px;
+}
+.projectheading1{
+    color: #244855;
+    margin-left: -2px;
+    font-size: 30px;
+    margin-top: -45px;
+}
+@keyframes appear {
+    from {
+      opacity: 0;
+      transform: translateX(-50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0px);
+    }
+  }
+  @keyframes appear1 {
+    from {
+      opacity: 0;
+      transform: translateX(250px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0px);
+    }
+  }
+.block {
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 20%;
+  }  
+  
+  .block1 {
+    animation: appear1 linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 20%;
+  }
+/* list of projects */
+.definitionproj{
+    color: #e64833; font-size: 15px;
+    width: 320px;
+    text-align: justify;
+   
+  }
+.view{
+    margin-top: -10px;
+}
+.skills{
+    color:#244855; font-size: 15px;
+    width: 320px;
+  }
+.skillsdes{
+    font-weight: 300;
+    font-size: 20px;
+    color: #244855;
+    width: 150px;
+    margin-top: 15px;
+  }
+.title-projects{
+    font-size: 17px; font-weight: 400;
+    margin-left: -25px;
+  }
+  
+.title-projects1{
+    
+    font-size: 17px; 
+    font-weight: 400; 
+    color:#e64833; 
+    margin-top: -1000px; 
+    opacity: 50%;
+    margin-top: -143px;
+    margin-left: 211px;
+    align-items: center;
+    text-align: center;
+  }
+  .title-projectsf2{
+    font-size: 17px; font-weight: 400;
+    margin-left: 200px;
+    color: #244855;
+    text-align: center;
+  }
+  .title-projects2{
+    
+    font-size: 17px; 
+    font-weight: 400; 
+    color:#e64833; 
+    margin-top: -1000px; 
+    opacity: 50%;
+    margin-top: -40px;
+    margin-left: 200px;
+    align-items: center;
+    text-align: center;
+  }
+  .title-projectsf3{
+    font-size: 17px; font-weight: 400;
+    margin-left: 167px;
+    color: #244855;
+    text-align: center;
+    
+  }
+  .title-projects3{
+    
+    font-size: 17px; 
+    font-weight: 400; 
+    color:#e64833; 
+    margin-top: 500px;
+    opacity: 50%;
+    margin-top:-39px;
+    margin-left: 168px;
+    align-items: center;
+    text-align: center;
+  }
+  .title-projectsf4{
+    font-size: 17px; font-weight: 400;
+    margin-left: 230px;
+    color: #244855;
+    text-align: center;
+    
+  }
+  .title-projects4{
+    
+    font-size: 17px; 
+    font-weight: 400; 
+    color:#e64833; 
+    margin-top: -1000px; 
+    opacity: 50%;
+    margin-top: -38px;
+    margin-left: 229px;
+    align-items: center;
+    text-align: center;
+  }
+  .title-projectsf5{
+    font-size: 17px; font-weight: 400;
+    margin-left: 220px;
+    color: #244855;
+    text-align: center;
+    
+  }
+  .title-projects5{
+    
+    font-size: 17px; 
+    font-weight: 400; 
+    color:#e64833; 
+    margin-top: -1000px; 
+    opacity: 50%;
+    margin-top: -39px;
+    margin-left: 219px;
+    align-items: center;
+    text-align: center;
+  }
+  .title-projectsf6{
+    font-size: 17px; font-weight: 400;
+    margin-left: 140px;
+    color: #244855;
+    text-align: center;
+    margin-bottom: 10px;
+    
+  }
+  .title-projects6{
+    
+    font-size: 17px; 
+    font-weight: 400; 
+    color:#e64833; 
+    margin-top: -1000px; 
+    opacity: 50%;
+    margin-top:-74px;
+    margin-left: 139px;
+    align-items: center;
+    text-align: center;
+  }
+  .container-projects{
+    margin-top: -200px;
+  }
+  .Btnf{
+    margin-left: 165px;
+  }
+  .footernotes{
+    margin-left: -5px;
+  }
+ #contact, footer{
+        height: 40vh;
+    }
+    #profile {
+        height: 75vh;
+        margin-bottom:0 ;
+    }
+    article {
+        font-size: 1rem;
+    }
+    footer nav {
+        height: fit-content;
+        margin-bottom: 2rem;
+    }
+    .about-container, .contact-info-upper-container, .btn-container {
+        flex-wrap: wrap;
+       
+    }
+    .about-details-container {
+        margin-top: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+    .card-exp{
+        margin-top: 60px;
+    }
+
+    .details-container{
+        height: 120px;
+        width: 90px;
+        color: black;
+        /* padding: 20px 20px 20px 20px; */
+    }
+    .details-container p{
+        
+        font-size: 0.70rem;
+        font-weight: 400;
+        
+    }
+    .contact-info-container{
+        margin: 0;
+    }
+
+    .contact-info-container p, .nav-links li a {
+        font-size: 1rem;
+        
+    }
+    
+    .experience-sub-title {
+        font-size: 1.25rem;
+    }
+    .logo {
+        font-size: 1.5rem;
+        background-color: transparent;
+        
+    }
+    .nav-links {
+        /* flex-direction: column;
+        gap: 0.5rem;
+        text-align: left; */
+        
+        display: none;
+
+        
+    }
+.section-container{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+    .section__pic-container {
+        width: auto;
+        height: 280px;
+        justify-content: center;
+        padding-top: 10px;
+        padding-bottom: 5px;
+       
+
+    }
+    
+    
+    .section__text__p2 {
+        font-size: 1.25rem;
+    }
+   
+    .title {
+        font-size: 2rem;
+        
+
+    }
+    .text-container {
+        text-align: justify;
+       
+    }
+   
+    .background-color{
+        width: auto;
+        height: 330px;
+        margin-bottom: 10px;
+        margin-top: 20px;
+        border-radius: 50px;
+       
+        
+    }
+    .about-pic {
+        height: 290px;
+        width: 200px ;
+        padding-left: 10px;
+        padding-top: 15px;
+        padding-bottom: 5px;
+        border-radius: 15px;
+       
+    }
+    .scrolldown{
+        margin-left: 310px;
+        
+    }
+    .scrolldownprofile{
+        margin-top: -30px;
+    }
+    .scrolldownabout{
+        margin-top: none;
+    }
+    .card{
+        margin-left: 36px;
+        width: 226px;
+        height: 240px;
+        margin-top: 15px;
+        margin-bottom: 40px;
+        
+    }
+    .card::before {
+        width: 270px;
+    height: 290px;
+    
+    }
+    .card::after {
+        width: 250px;
+        height: 280px;
+        
+    }
+    /* EXPERIENCE */
+    .wave {
+        display: none;
+    }
+    .card-exp{
+        display: flex;
+    }
+    .experience-details-container{
+        display: none;
+    }
+    .project_title{
+        margin-left: 100px;
+    }
+    .container-projects{
+        margin-left: -10px;
+        
+    }
+    .projectheading {
+        padding-left: 1px;
+        margin-top: 15px;
+        margin-bottom: -15px;
+       }
+
+    
+    
+}
